@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 280px) {
+.header {
+        width: 18rem;
+        height: 18rem;
+        margin-left: 4px;
+        font-weight: bold;
+        text-align: center;
+        justify-content: center;
+}
+
+@media screnn and (min-width: 540px) {
+    .imagem {
+      width: 500rem;
+      height: 150rem;
+    }
+    .h1 {
+      font-size: 25rem;
+    }
+    }
+  }
+
+@media screen and (min-width: 375px) {
+    .pular {
+        text-align: center;
+        margin-left: 230px;
+        justify-content: center;
+    }   
+}
