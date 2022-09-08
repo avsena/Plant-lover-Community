@@ -1,22 +1,13 @@
-@charset "UTF-8";
+@charset "UFT-8";
 
 @media screen and (min-width: 280px) {
-header {
-  display:inline-block ;
-  text-align: center;
-  justify-content: center;
-
-}
-
-@media screnn and (min-width: 540px) {
-    .imagem {
+    .botao-inicio {
+        position: absolute;
+        width: 184px;
+        height: 205.05;
+        left: 50%;
+        top: 50%;
+        margin-left: -92px;
+        margin-top: -102.25px;
     }
-    .h1 {
-    }
-    }
-  }
-
-@media screen and (min-width: 375px) {
-    .pular {
-    }   
 }
